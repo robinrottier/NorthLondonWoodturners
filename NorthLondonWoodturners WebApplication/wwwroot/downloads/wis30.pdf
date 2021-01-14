@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en-GB"><!-- Aligned to template v5-hse-1.2.1.dwt -->
+<head>
+
+<!-- Anti-flicker snippet (recommended) If installing optimise with GTM, specifcy GTM container ID  --> 
+
+<script id="anti-flicker">(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-PJPWMNL':true});
+</script> 
+
+<!-- GTM --> 
+	
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PJPWMNL');</script>
+
+<meta charset="utf-8">
+	
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- v5.1.1 -->
+
+
+
+<link rel="stylesheet" href="/assets/v5-css/v5.min.css" type="text/css" media="screen,print" />
+
+
+
+<!-- Page title and meta -->
+	
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Page not found - 404 error</title>
+<meta name="Keywords" content="error, 404, not found " />
+<meta name="Description" content="The HSE website 404 error page" />
+
+
+<!-- Stylesheet -->
+<!-- InstanceEndEditable -->
+<meta name="HSE.contentType" content="default" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="apple-touch-icon" href="/assets/v4-images/shared/apple-touch-icon.png" />
+<link rel="home" href="/index.htm" />
+
+
+<!-- ie 11 fix for left-hand navigation --> 
+<script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
+
+
+</head>
+<body class="abc guidance normalFont">
+
+<!-- GTM -->
+
+<noscript aria-hidden="true" aria-label="GTM-PJPWMNL">
+<iframe title="GTM-PJPWMNL" src="https://www.googletagmanager.com/ns.html?id=GTM-PJPWMNL" height="0" width="0" style="display:none;visibility:hidden" aria-hidden="true"></iframe>
+</noscript>
+<section id="top" aria-label="Skip to content">  <a href="#contentContainer" class="skip">Skip to content</a>  </section>
+ 
+<section id="printBanner"> <img src="/assets/v4-images/website/print/print-logo.jpg" width="193" height="65" alt="Health and Safety Executive" id="printLogo"/> </section>
+<header id="headerContainer">
+  <div id="header">
+    <div class="headerTop header js-header">
+		 
+		<div id="headerLogo" class="headerLogo"><a href="/index.htm">Health and Safety<br />
+        Executive</a></div>
+		
+		 
+		
+      <div id="globalSearch" class="desktop-gcs-search">
+        <gcse:searchbox-only></gcse:searchbox-only>
+      </div>
+    </div>
+    
+    <!-- JS Main Navigation -->
+    
+    <div class="menuContainer">
+      <nav id="main-menu" class="menu js-menu">
+        <ul>
+          <li class="home"><a href="/index.htm">Home</a></li>
+          <li class="news"><a href="/news/index.htm">News</a></li>
+          <li class="guidance"><a href="/guidance/index.htm">Guidance</a></li>
+          <li class="abouthse"><a href="/aboutus/index.htm">About HSE</a></li>
+          <li class="hseBooks"><a href="https://books.hse.gov.uk/">Books</a></li>
+          <li class="freeUpdates"><a href="/news/subscribe/index.htm">Free updates</a></li>
+          <li class="contact"><a href="/contact/index.htm">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+   </header>
+   
+<nav id="breadCrumb">
+  <div class="breadCrumbContainer"> <!-- InstanceBeginEditable name="Breadcrumbs" -->
+<ol>
+      <li class="home"><a href="/index.htm">HSE</a></li>
+      
+      <li>Page not found - 404 error</li>
+    </ol>
+    <!-- InstanceEndEditable --> </div>
+  <div id="backTo">
+    <p class="backto"><a id="backnav" href="index.htm">Back to</a></p>
+  </div>
+</nav>
+ 
+<div id="pageContainer" class="v5" xmlns:argot="http://purl.oclc.org/argot/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:v="http://www.w3.org/2006/vcard/ns#" xmlns:dbp="http://dbpedia.org/resource/">
+<!-- InstanceBeginEditable name="beta-survey" --><!-- #BeginLibraryItem "/Library/v5-beta-survey-3.lbi" --><section id="beta-user-testing" aria-label="Beta feedback">
+<p><span class="beta-highlight">Beta</span> This is a new way of showing guidance - <a href="https://www.surveymonkey.co.uk/r/QM7NSJY">your feedback</a> will help us improve it.</p>
+</section><!-- #EndLibraryItem --><!-- InstanceEndEditable -->   
+
+<!-- Beta content page --> 
+
+  
+<nav id="navSecondary" aria-label="Secondary"> <!-- InstanceBeginEditable name="Subnav" --><!-- #BeginLibraryItem "/Library/subnav-404.lbi" --><div id="menu" class="slinky-menu slinky-theme-default">
+<ul>
+	<li id="404-home-page-nav-link" class="first"><a href="/index.htm">HSE home page</a></li>
+	<li id="404-simple-link"><a href="/simple-health-safety/index.htm">Basics for your business</a></li>
+	<li id="404-simple-risk-link"><a href="/simple-health-safety/risk/index.htm">Risk assessment</a></li>
+	<li id="404-simple-law-link"><a href="/simple-health-safety/law/index.htm">The law</a></li>
+	
+	<li id="404-guidance-link"><a href="/guidance/index.htm">Guidance<span class="hideFromScreen">: health and safety</span></a></li>
+		
+	<li id="404-coronavirus-link"><a href="/coronavirus/index.htm">Coronavirus</a></li>
+	<li id="404-coshh-link"><a href="/coshh/index.htm">Chemicals, fumes and dust</a></li>
+	<li id="404-simple-basics-link"><a href="/simple-health-safety/index.htm">The basics for your business</a></li>
+	<li id="404-contact-link"><a href="/contact/index.htm">Apply, notify or report</a></li>
+	
+	<li id="404-construction-link"><a href="/construction/index.htm">Construction</a></li>
+	<li id="404-riddor-link"><a href="/riddor/index.htm" title="Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013">RIDDOR</a></li>
+
+	<li id="404-asbestos-link"><a href="/asbestos/index.htm" title="Asbestos: Why it's dangerous, removal, licensed contractors and training">Asbestos</a></li>
+</ul>
+</div><!-- #EndLibraryItem --><!-- InstanceEndEditable --> </nav>
+
+<main id="contentContainer" class="columnbetacontentpage column2">
+ 
+	
+<!-- InstanceBeginEditable name="content" -->
+<h1><img src="/assets/images/icons/resources/alert.gif" width="50" height="50" alt="alert!" /> Sorry we couldn't find that page (404 error)</h1>
+<div class="columnFull">
+    <p>Please try one of the following:</p>
+      <ul>
+        <li id="404-home-page-link"><a href="/index.htm" title="Go to the home page of hse.gov.uk">Home page</a></li>
+        <li id="404-search-page-link"><a href="/search/search-results.htm">Search</a></li>
+      </ul>
+</div>
+  <!-- Beta flexible content page -->
+
+	  
+  
+	  
+	  
+  <!-- Beta two column -->
+	  
+   
+   
+
+	  
+  <!-- Beta two column (top task) -->
+	  
+  
+	  
+   
+
+	  
+
+
+	  
+	  
+
+	
+	
+	
+</main>
+
+</div>
+	  
+	
+
+	
+
+
+<section id="feedback" aria-describedby="feedback-message" aria-label="Is this page useful">
+  <div class="feedback-container">
+    <p class="feedback-message" id="feedback-message"><strong>Is this page useful?</strong></p>
+    <div class="feedback-links"> <a id="userYes" href="#userYes">Yes</a> <a id="userNo" href="#userNo">No</a> </div>
+  </div>
+</section>
+ 
+<nav id="footer-nav" aria-label="Footer menu">
+  <footer id="footerContainer">
+    <div id="footer">
+      <h2 class="visually-hidden">Footer links</h2>
+      <div class="footer-links-container">
+        <ul>
+          <li class="first"><a href="/search/search-results.htm">Search</a></li>
+          <li><a href="/a-z/index.htm">A-Z</a></li>
+          <li><a href="/acronym/index.htm">Acronyms</a></li>
+          <li><a href="/about/site_map/index.htm">Site map</a></li>
+          <li><a href="/copyright.htm">Copyright</a></li>
+          <li><a href="/privacy.htm">Privacy and cookies</a></li>
+          <li><a href="/accessibility.htm">Accessibility</a></li>
+          <li><a href="/foi/index.htm">Disclosure of information</a></li>
+          <li><a href="/report-vulnerability.htm">Vulnerability disclosure</a></li>
+        </ul>
+      </div>
+    </div>
+    <div id="baseStrip">
+      <div id="baseStripInner">
+        <p>HSE aims to reduce work-related death, injury and ill health.</p>
+        <div class="guidance-languages">
+          <p><a href="/languages/index.htm">Information in other languages</a></p>
+        </div>
+      </div>
+    </div>
+  </footer>
+</nav>
+<section id="lastUpdated">
+<!-- InstanceBeginEditable name="updated" -->Updated
+  <!-- #BeginDate format:IS1 -->2020-08-14<!-- #EndDate -->
+  <!-- InstanceEndEditable -->
+</section>
+<script src="/assets/v5-js/v5-main.min.js"></script>
+<script src="/assets/v5-js/jquery.min.js"></script> 
+<script src="/assets/v5-js/v5-footer.min.js"></script> 
+
+	
+ 
+<script src="/assets/v5-js/v5-footer-slinky-js.min.js"></script> 
+
+
+
+
+
+<div id="gutter"><!-- InstanceBeginEditable name="gutter" --><!-- InstanceEndEditable --></div>
+
+<!-- SiteImprove JS --> 
+<script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = '//siteimproveanalytics.com/js/siteanalyze_6798.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+	
+// removes cellspacing & cellpadding attributes from GCS (Assesibility fix)
+window.onload = function(){
+
+var searchTable = document.querySelector('table.gsc-search-box');
+var searchTable2 = document.querySelector('table.gsc-input');
+var searchTable3 = document.querySelector('table.gssb_c');
+var searchInput = document.querySelector('input.gsc-input');
+
+searchTable.removeAttribute('cellpadding');
+searchTable2.removeAttribute('cellpadding');
+searchTable3.removeAttribute('cellpadding');
+searchInput.removeAttribute('cellpadding');
+
+searchTable.removeAttribute('cellspacing');
+searchTable2.removeAttribute('cellspacing');
+searchTable3.removeAttribute('cellspacing');
+searchInput.removeAttribute('cellspacing');
+};	
+</script> 
+	
+
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"rayId":"6118740299804065","version":"2021.1.1","si":10}'></script>
+</body>
+</html>

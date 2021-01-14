@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\calendars\2017.html" />
+    <Content Remove="wwwroot\calendars\2018.html" />
+    <Content Remove="wwwroot\calendars\2019.html" />
+    <Content Remove="wwwroot\calendars\External Events.html" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\calendars\2017.html" />
+    <None Include="wwwroot\calendars\External Events.html" />
+    <None Include="wwwroot\calendars\2018.html" />
+    <None Include="wwwroot\calendars\2019.html" />
+    <None Include="wwwroot\calendars\2020.html" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\downloads\" />
+  </ItemGroup>
+
+</Project>
