@@ -23,6 +23,7 @@ namespace WindowsFormsApp1
 
         public ChromiumWebBrowser browser;
         private bool _browserIsLoading;
+        private string _browserAddress;
         private string _browserTitle;
         private string _browserSource;
 
@@ -35,7 +36,17 @@ namespace WindowsFormsApp1
 
             browser.LoadingStateChanged += Browser_LoadingStateChanged;
             browser.TitleChanged += Browser_TitleChanged;
-            browser.Lo
+            browser.AddressChanged += Browser_AddressChanged;
+        }
+
+        private void Browser_AddressChanged(object sender, AddressChangedEventArgs e)
+        {
+            this.Invoke(new Action(BrowserAddressChanged));
+        }
+
+        private void BrowserAddressChanged()
+        {
+            _browserAddress = browser.Address;
         }
 
         private void Browser_TitleChanged(object sender, TitleChangedEventArgs e)
